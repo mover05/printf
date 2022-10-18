@@ -1,2 +1,1 @@
-# printf
 alx team project
